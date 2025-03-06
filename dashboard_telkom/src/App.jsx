@@ -1,4 +1,6 @@
 import { useState } from 'react'
+import Login from './Pages/Login'
+
 
 
 function App() {
@@ -7,6 +9,7 @@ function App() {
   return (
     <>
     <h1>BISMILLAH GESS!!</h1>
+    <Login />
     </>
   )
 }
